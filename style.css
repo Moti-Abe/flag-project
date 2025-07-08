@@ -1,0 +1,33 @@
+body{
+    background-color: #748873;
+    text-align: center;
+}
+p{
+    font-size: 100px;
+    color: white;
+}
+#flag{
+    height: 600px;
+    width: 900px;
+    border: 1px solid white;
+    background-color: black;
+    position: relative;
+}
+#red{
+    height: 200px;
+    width: 900px;
+    border: 1px 1px solid red; 
+    background-color: red;
+    padding-bottom: 50px;
+    position: absolute;
+    top: 200px;  
+    
+}
+#white{
+    height: 200px;
+    width: 900px;
+    border: 1px 1px solid red;
+    background-color: white;
+    position: absolute;
+    top: 400px;
+    }
