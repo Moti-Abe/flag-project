@@ -1,10 +1,6 @@
 body{
-    background-color: #748873;
+    background-color: #4B352A;
     text-align: center;
-}
-p{
-    font-size: 100px;
-    color: white;
 }
 #flag{
     height: 600px;
@@ -20,8 +16,7 @@ p{
     background-color: red;
     padding-bottom: 50px;
     position: absolute;
-    top: 200px;  
-    
+    top: 200px;    
 }
 #white{
     height: 200px;
@@ -30,4 +25,10 @@ p{
     background-color: white;
     position: absolute;
     top: 400px;
-    }
+}
+.heading{
+    text-align: left;
+    margin-left: 300px;
+    margin-top: -15px;
+    margin-bottom: -10px;
+}
